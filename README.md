@@ -21,13 +21,6 @@
 4. 听完300首歌曲
 5. 刷单曲播放次数
 
-## 安装部署
-
-https://zaincheung.gitee.io/netease-cloud/#/api/
-
-## 接口文档
-
-https://zaincheung.gitee.io/netease-cloud/#/document/
 
 ## 声明
 
