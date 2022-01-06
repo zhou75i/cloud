@@ -1,7 +1,7 @@
 ## 网易云音乐升级API
 
 <p align="center">
-    <a href="https://github.com/zhou75i"><img alt="Author" src="https://img.shields.io/badge/author-ZainCheung-blueviolet"/></a>
+    <a href="https://github.com/zhou75i"><img alt="Author" src="https://img.shields.io/badge/author-zhou75i-blueviolet"/></a>
     <img alt="PHP" src="https://img.shields.io/badge/code-PHP-success"/>
     <img src="https://github-visitor-badge.glitch.me/badge?page_id=ZainCheung.netease-cloud-api"/>
 </p>
