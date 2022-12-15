@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://alist.nn.ci"><img height="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"/></a>
+  <a href="https://alist.nn.ci"><img height="100px" alt="logo" src="https://s1.ax1x.com/2022/12/16/zT5AHO.png"/></a>
   <p><em>🗂️A file list program that supports multiple storage, powered by Gin and Solidjs.</em></p>
 <div>
   <a title="Crowdin" target="_blank" href="https://crwd.in/alist">
