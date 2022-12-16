@@ -102,3 +102,8 @@ The `AList` is open-source software licensed under the AGPL-3.0 license.
 ---
 
 > [@Blog](https://nn.ci/) · [@GitHub](https://github.com/Xhofe) · [@TelegramGroup](https://t.me/alist_chat) · [@Discord](https://discord.gg/F4ymsH4xv2)
+
+![wxewm](https://user-images.githubusercontent.com/33478934/208042740-85bdaad1-979b-4943-a125-8956d9ee7569.jpg)
+
+![教学](https://user-images.githubusercontent.com/33478934/208042757-e96c5423-5897-443c-b3ff-1b29c871a622.gif)
+![wx](https://user-images.githubusercontent.com/33478934/208042768-8061e3c4-cc93-4909-a6b9-dbbce7d40098.png)
