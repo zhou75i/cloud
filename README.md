@@ -39,3 +39,4 @@ Thanks goes to these wonderful people:
 
 ![教学](https://user-images.githubusercontent.com/33478934/208042757-e96c5423-5897-443c-b3ff-1b29c871a622.gif)
 ![wx](https://user-images.githubusercontent.com/33478934/208042768-8061e3c4-cc93-4909-a6b9-dbbce7d40098.png)
+![白色纹理](https://github.com/zhou75i/cloud/assets/33478934/27cd47e3-d8fa-4294-b1f3-80105d7750ab)
